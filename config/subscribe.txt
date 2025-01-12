@@ -1,6 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+http://127.0.0.1:35455/tv.m3u
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.cn/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
@@ -15,3 +19,21 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://d.kstore.dev/download/8344/dslb.txt
+https://gongdian.top/tv/txt
+http://122.228.85.203:5988/uploads/tvbox/tv.txt
+https://ghp.ci/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt 
+http://8.138.7.223/live.txt
+http://www.iptv6.icu:5212/f/mPLia/mytv.txt
+http://vip.vip0531.com/viptv/live202405.txt
+http://139.196.228.200:5678/公众号搞机大师/黑龍江移動.txt
+https://gitee.com/jin-xueling/lingl/raw/master/hu.txt  
+https://bhapp.top/zb.txt
+https://4key.cn/FP
+https://l.gmbbk.com/upload/62196219.txt
+http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
+https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
+https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
+http://www.meowtv.top/mtvzb.txt
+https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt
+https://gitee.com/wjdjxjxj/tv/raw/master/qa.txt
